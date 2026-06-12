@@ -148,6 +148,5 @@ Through this project I gained hands-on experience with:
 
 ## Author
 
-Aishwarya
-B.Tech CSE
-VIT Vellore
+Aishwarya Manoj Nair
+
